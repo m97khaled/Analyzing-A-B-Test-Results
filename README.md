@@ -6,5 +6,5 @@ The company has developed a new web page in order to try and increase the number
 
 **The goal is to work through this notebook to help the company understand if:**
 * They should implement this new page
-* Keep the old page
-* Run the experiment longer to make their decision.
+* They should rather Keep the old page
+* They should perhaps run the experiment longer to make their decision.
